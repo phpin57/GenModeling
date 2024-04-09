@@ -1,7 +1,7 @@
 # GenModeling Paper Study : Consistency models
 
 This project provides an analysis, codes and experiments concerning the paper
-> l
+> Song, Yang and Dhariwal, Prafulla and Chen, Mark and Sutskever, Ilya. Consistency models. arXiv preprint arXiv:2303.01469, 2023
 
 Diffusion models, best-in-class generative models for image synthesis, can output
 high fidelity images but it entails with a trade-off in generation time. Consistency
